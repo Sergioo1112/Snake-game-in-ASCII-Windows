@@ -1,4 +1,4 @@
-Snake game in Windows using C++ I made it because i was bored.
+Snake game in Windows using C++ I made it because I was bored.
 Made by Sergio Vargas Vicente
 
 --- CONTROLS ---
