@@ -1,4 +1,4 @@
-Snake game in ascii in windows using C++
+Little Snake game in ascii in windows using C++ I made while i was bored.
 Made by Sergio Vargas Vicente
 
 --- CONTROLS ---
